@@ -1,10 +1,10 @@
 self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
-    "revision": "74696c1ed300ac776ab0996f89fbd5cc",
+    "revision": "10ede06aa1ac60391234e3c72cea404e",
     "url": "/TwoPenceFolio/index.html"
   },
   {
-    "revision": "6deb0afd4ebf57e76f6b",
+    "revision": "6068f9b1dcdce326fff8",
     "url": "/TwoPenceFolio/static/css/main.0b5a4268.chunk.css"
   },
   {
@@ -16,8 +16,8 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/TwoPenceFolio/static/js/2.9a2180c5.chunk.js.LICENSE.txt"
   },
   {
-    "revision": "6deb0afd4ebf57e76f6b",
-    "url": "/TwoPenceFolio/static/js/main.b791009b.chunk.js"
+    "revision": "6068f9b1dcdce326fff8",
+    "url": "/TwoPenceFolio/static/js/main.81ffffc1.chunk.js"
   },
   {
     "revision": "ea0599e3ecfb34b4c83a",

@@ -1,14 +1,14 @@
 {
   "files": {
     "main.css": "/TwoPenceFolio/static/css/main.0b5a4268.chunk.css",
-    "main.js": "/TwoPenceFolio/static/js/main.b791009b.chunk.js",
-    "main.js.map": "/TwoPenceFolio/static/js/main.b791009b.chunk.js.map",
+    "main.js": "/TwoPenceFolio/static/js/main.81ffffc1.chunk.js",
+    "main.js.map": "/TwoPenceFolio/static/js/main.81ffffc1.chunk.js.map",
     "runtime-main.js": "/TwoPenceFolio/static/js/runtime-main.877e5482.js",
     "runtime-main.js.map": "/TwoPenceFolio/static/js/runtime-main.877e5482.js.map",
     "static/js/2.9a2180c5.chunk.js": "/TwoPenceFolio/static/js/2.9a2180c5.chunk.js",
     "static/js/2.9a2180c5.chunk.js.map": "/TwoPenceFolio/static/js/2.9a2180c5.chunk.js.map",
     "index.html": "/TwoPenceFolio/index.html",
-    "precache-manifest.45dc79945e31f2e87f0d3b3eb82b6f95.js": "/TwoPenceFolio/precache-manifest.45dc79945e31f2e87f0d3b3eb82b6f95.js",
+    "precache-manifest.3475263fce4663a8e1febf2006610080.js": "/TwoPenceFolio/precache-manifest.3475263fce4663a8e1febf2006610080.js",
     "service-worker.js": "/TwoPenceFolio/service-worker.js",
     "static/css/main.0b5a4268.chunk.css.map": "/TwoPenceFolio/static/css/main.0b5a4268.chunk.css.map",
     "static/js/2.9a2180c5.chunk.js.LICENSE.txt": "/TwoPenceFolio/static/js/2.9a2180c5.chunk.js.LICENSE.txt",
@@ -19,6 +19,6 @@
     "static/js/runtime-main.877e5482.js",
     "static/js/2.9a2180c5.chunk.js",
     "static/css/main.0b5a4268.chunk.css",
-    "static/js/main.b791009b.chunk.js"
+    "static/js/main.81ffffc1.chunk.js"
   ]
 }
