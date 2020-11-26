@@ -3,8 +3,8 @@ import './Header.css';
 import { greeting, skills, experience, openSourceProjects, projects, achievements, blogs, contactInfo } from '../../portfolio';
 
 function Header() {
-	
-	const onClickMenu = function(): void {
+
+	const onClickMenu = function (): void {
 		if (window.innerWidth < 768) {
 			let navMenu = document.getElementById("toggle-nav");
 			if (!navMenu) throw new Error("HTML Error!");
@@ -25,7 +25,7 @@ function Header() {
 					<a href="#">{greeting.username}</a>
 					<span>/&gt;</span>
 				</div>
-				
+
 				<div className="icon">
 					<a href="#toggle-nav" className="icon fas fa-bars" onClick={onClickMenu}></a>
 				</div>
@@ -51,11 +51,11 @@ function Header() {
 							Projects
 						</a>
 					</li>}
-					{achievements.view && <li className="nav-list" onClick={onClickMenu}>
+					{/* {achievements.view && <li className="nav-list" onClick={onClickMenu}>
 						<a href="#achievement">
 							Achievements
 						</a>
-					</li>}
+					</li>} */}
 					{blogs.view && <li className="nav-list" onClick={onClickMenu}>
 						<a href="#blog">
 							Blogs

@@ -19,8 +19,8 @@ function Main() {
 			{greeting.view && <Hello />}
 			{skills.view && <Skill />}
 			{experience.view && <Experience />}
-			{openSourceProjects.view && <OpenSource />}
 			{projects.view && <Project />}
+			{openSourceProjects.view && <OpenSource />}
 			{achievements.view && <Achievement />}
 			{blogs.view && <Blog />}
 			{contactInfo.view && <Contact />}
