@@ -1,23 +1,23 @@
 self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
-    "revision": "10ede06aa1ac60391234e3c72cea404e",
+    "revision": "aff1124f92d77bae14a3e03a8b62cb6e",
     "url": "/TwoPenceFolio/index.html"
   },
   {
-    "revision": "6068f9b1dcdce326fff8",
+    "revision": "c30d58b0b0516767349d",
     "url": "/TwoPenceFolio/static/css/main.0b5a4268.chunk.css"
   },
   {
-    "revision": "f0585afd58bab4c12498",
-    "url": "/TwoPenceFolio/static/js/2.9a2180c5.chunk.js"
+    "revision": "628ae41921445c93b14f",
+    "url": "/TwoPenceFolio/static/js/2.60ea1011.chunk.js"
   },
   {
     "revision": "c97fb91e7dd1c7b19ae67fb152a2e6b2",
-    "url": "/TwoPenceFolio/static/js/2.9a2180c5.chunk.js.LICENSE.txt"
+    "url": "/TwoPenceFolio/static/js/2.60ea1011.chunk.js.LICENSE.txt"
   },
   {
-    "revision": "6068f9b1dcdce326fff8",
-    "url": "/TwoPenceFolio/static/js/main.81ffffc1.chunk.js"
+    "revision": "c30d58b0b0516767349d",
+    "url": "/TwoPenceFolio/static/js/main.7e8d1054.chunk.js"
   },
   {
     "revision": "ea0599e3ecfb34b4c83a",
@@ -26,9 +26,5 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
     "revision": "b88924d5d914bf9f3885f87c2ed76477",
     "url": "/TwoPenceFolio/static/media/sad-icon.b88924d5.png"
-  },
-  {
-    "revision": "b9d7d448a09d6aacb45d21aab2c6fd53",
-    "url": "/TwoPenceFolio/static/media/your photo.b9d7d448.png"
   }
 ]);
