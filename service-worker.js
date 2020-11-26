@@ -14,7 +14,7 @@
 importScripts("https://storage.googleapis.com/workbox-cdn/releases/4.3.1/workbox-sw.js");
 
 importScripts(
-  "/TwoPenceFolio/precache-manifest.0e1dcb8cadf654e9e12fb7306d1bc07c.js"
+  "/TwoPenceFolio/precache-manifest.45dc79945e31f2e87f0d3b3eb82b6f95.js"
 );
 
 self.addEventListener('message', (event) => {
